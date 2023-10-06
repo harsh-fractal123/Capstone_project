@@ -1,0 +1,31 @@
+CourseType,CourseId,Title,Competency,Complexity
+Cloud,C0001,Certificate in Cloud Computing ,Technical,Basic
+Cloud,C0002,Certificate in Visualization and Cloud Computing ,Technical,Basic
+Cloud,C0003,"Diploma in Information Security, Networking and Cloud Computing ",Security,Advanced
+Cloud,C0004,BE (Hons) in CSE (Cloud Computation) in collaboration,Domain,Advanced
+Cloud,C0005,BTech in Computer Science and Engineering (Cloud Computing),Domain,Advanced
+Cloud,C0006,BTech in Computer Technology (Cloud Computing),Domain,Advanced
+Cloud,C0007,BCA with Microsoft Cloud Computing and Cyber Security ,Security,Advanced
+Cloud,C0008,BTech in Information Technology with Cloud Computing ,Technical,Advanced
+Cloud,C0009,MCA with specialization in Cloud Computing ,Technical,Advanced
+Cloud,C0010,ME in Cloud Computing ,Technical,Basic
+Cloud,C0011,MTech Computer Science and Engineering (Cloud Computing),Technical,Basic
+Hardware and Networking,C0012,Bachelor’s in Computer and Networking,Domain,Basic
+Hardware and Networking,C0013,B.Sc in Hardware and Networking,Domain,Advanced
+Hardware and Networking,C0014,BTech in IT and Networking,Domain,Basic
+Hardware and Networking,C0015,BS in Hardware and Networking,Domain,Basic
+Hardware and Networking,C0016,BSc in Networking Technology,Domain,Basic
+Hardware and Networking,C0017,M.Tech in Network Engineering,Domain,Advanced
+Hardware and Networking,C0018,M.Sc in Hardware and Networking,Domain,Advanced
+Hardware and Networking,C0019,MSc in Wireless Networking,Domain,Advanced
+Hardware and Networking,C0020,Diploma in Computer Hardware Maintenance,Domain,Advanced
+Hardware and Networking,C0021,Diploma of Network Engineering,Domain,Advanced
+Hardware and Networking,C0022,Diploma in Computer Hardware and Networking ,Domain,Advanced
+Hardware and Networking,C0023,Diploma in IT and Networking,Technical,Advanced
+Web Development,C0024,Master of Science in Information Systems – Web and Mobile Computing,Domain,Basic
+Web Development,C0025,Graduate Certificate in Web Design and Development,Domain,Advanced
+Web Development,C0026,Diploma in Web and Application Development,Domain,Basic
+Web Development,C0027,Diploma in Internet Applications and Web Development,Technical,Basic
+Web Development,C0028,Diploma in Web Development and Design ,Technical,Basic
+Web Development,C0029,Diploma in Contemporary Web Design,Technical,Advanced
+Web Development,C0030,Bachelor of Science in Interactive Media and Web Technologies ,Technical,Basic

@@ -1,0 +1,301 @@
+StudentId,CourseId,ExamDate,AttendedStatus,Marks,Result
+S0001,C0001,17-Feb-19,Attended,70,Qualified
+S0002,C0002,18-Feb-19,Absent,0,Not Qualified
+S0003,C0003,19-Feb-19,Attended,70,Qualified
+S0004,C0004,20-Feb-19,Attended,92,Qualified
+S0005,C0005,21-Feb-19,Absent,0,Not Qualified
+S0006,C0006,22-Feb-19,Absent,0,Not Qualified
+S0007,C0007,23-Feb-19,Absent,0,Not Qualified
+S0008,C0008,24-Feb-19,Attended,70,Qualified
+S0009,C0009,25-Feb-19,Attended,91,Qualified
+S0010,C0010,26-Feb-19,Absent,0,Not Qualified
+S0011,C0011,27-Feb-19,Absent,0,Not Qualified
+S0012,C0012,28-Feb-19,Attended,70,Qualified
+S0013,C0013,01-Mar-19,Attended,85,Qualified
+S0014,C0014,02-Mar-19,Absent,0,Not Qualified
+S0015,C0015,03-Mar-19,Absent,0,Not Qualified
+S0016,C0016,04-Mar-19,Absent,0,Not Qualified
+S0017,C0017,05-Mar-19,Absent,0,Not Qualified
+S0018,C0018,23-Feb-19,Attended,70,Qualified
+S0019,C0019,18-Feb-19,Attended,75,Qualified
+S0020,C0020,19-Feb-19,Attended,90,Qualified
+S0021,C0021,20-Feb-19,Attended,90,Qualified
+S0022,C0022,27-Feb-19,Absent,0,Not Qualified
+S0023,C0023,28-Feb-19,Absent,0,Not Qualified
+S0024,C0024,01-Mar-19,Absent,0,Not Qualified
+S0025,C0025,02-Mar-19,Absent,0,Not Qualified
+S0026,C0026,14-Mar-19,Attended,86,Qualified
+S0027,C0027,15-Mar-19,Attended,77,Qualified
+S0028,C0028,18-Feb-19,Attended,88,Qualified
+S0029,C0029,19-Feb-19,Attended,87,Qualified
+S0030,C0030,20-Feb-19,Attended,70,Qualified
+S0031,C0007,23-Feb-19,Absent,0,Not Qualified
+S0032,C0008,24-Feb-19,Attended,70,Qualified
+S0033,C0009,25-Feb-19,Attended,91,Qualified
+S0034,C0010,26-Feb-19,Absent,0,Not Qualified
+S0035,C0011,27-Feb-19,Absent,0,Not Qualified
+S0036,C0012,28-Feb-19,Attended,70,Qualified
+S0037,C0013,01-Mar-19,Attended,85,Qualified
+S0038,C0014,02-Mar-19,Absent,0,Not Qualified
+S0039,C0015,03-Mar-19,Absent,0,Not Qualified
+S0040,C0016,04-Mar-19,Absent,0,Not Qualified
+S0041,C0017,05-Mar-19,Absent,0,Not Qualified
+S0042,C0018,23-Feb-19,Attended,70,Qualified
+S0043,C0019,18-Feb-19,Attended,75,Qualified
+S0044,C0020,19-Feb-19,Attended,90,Qualified
+S0045,C0021,20-Feb-19,Attended,90,Qualified
+S0046,C0022,27-Feb-19,Absent,0,Not Qualified
+S0047,C0023,28-Feb-19,Absent,0,Not Qualified
+S0048,C0026,14-Mar-19,Attended,86,Qualified
+S0049,C0027,15-Mar-19,Attended,77,Qualified
+S0050,C0028,18-Feb-19,Attended,88,Qualified
+S0051,C0029,19-Feb-19,Attended,87,Qualified
+S0052,C0030,20-Feb-19,Attended,70,Qualified
+S0053,C0007,23-Feb-19,Absent,0,Not Qualified
+S0054,C0008,24-Feb-19,Attended,70,Qualified
+S0055,C0009,25-Feb-19,Attended,91,Qualified
+S0056,C0010,26-Feb-19,Absent,0,Not Qualified
+S0057,C0009,25-Feb-19,Attended,91,Qualified
+S0058,C0010,26-Feb-19,Absent,0,Not Qualified
+S0059,C0011,27-Feb-19,Absent,0,Not Qualified
+S0060,C0012,28-Feb-19,Attended,70,Qualified
+S0061,C0013,01-Mar-19,Attended,85,Qualified
+S0062,C0014,02-Mar-19,Absent,0,Not Qualified
+S0063,C0015,03-Mar-19,Absent,0,Not Qualified
+S0064,C0016,04-Mar-19,Absent,0,Not Qualified
+S0065,C0017,05-Mar-19,Absent,0,Not Qualified
+S0066,C0018,23-Feb-19,Attended,70,Qualified
+S0067,C0019,18-Feb-19,Attended,75,Qualified
+S0068,C0020,19-Feb-19,Attended,90,Qualified
+S0069,C0026,14-Mar-19,Attended,86,Qualified
+S0070,C0027,15-Mar-19,Attended,77,Qualified
+S0071,C0028,18-Feb-19,Attended,88,Qualified
+S0072,C0029,19-Feb-19,Attended,87,Qualified
+S0073,C0030,20-Feb-19,Attended,70,Qualified
+S0074,C0007,23-Feb-19,Absent,0,Not Qualified
+S0075,C0008,24-Feb-19,Attended,70,Qualified
+S0076,C0009,25-Feb-19,Attended,91,Qualified
+S0077,C0010,26-Feb-19,Absent,0,Not Qualified
+S0078,C0009,25-Feb-19,Attended,91,Qualified
+S0079,C0010,26-Feb-19,Absent,0,Not Qualified
+S0080,C0011,27-Feb-19,Absent,0,Not Qualified
+S0081,C0012,28-Feb-19,Attended,70,Qualified
+S0082,C0013,01-Mar-19,Attended,85,Qualified
+S0083,C0014,02-Mar-19,Absent,0,Not Qualified
+S0084,C0015,03-Mar-19,Absent,0,Not Qualified
+S0085,C0016,04-Mar-19,Absent,0,Not Qualified
+S0086,C0017,05-Mar-19,Absent,0,Not Qualified
+S0087,C0018,23-Feb-19,Attended,70,Qualified
+S0088,C0019,18-Feb-19,Attended,75,Qualified
+S0089,C0020,19-Feb-19,Attended,90,Qualified
+S0090,C0021,20-Feb-19,Attended,90,Qualified
+S0091,C0026,14-Mar-19,Attended,86,Qualified
+S0092,C0027,15-Mar-19,Attended,77,Qualified
+S0093,C0028,18-Feb-19,Attended,88,Qualified
+S0094,C0029,19-Feb-19,Attended,87,Qualified
+S0095,C0030,20-Feb-19,Attended,70,Qualified
+S0096,C0007,23-Feb-19,Absent,0,Not Qualified
+S0097,C0008,24-Feb-19,Attended,70,Qualified
+S0098,C0001,17-Feb-19,Attended,70,Qualified
+S0099,C0002,18-Feb-19,Absent,0,Not Qualified
+S0100,C0003,19-Feb-19,Attended,70,Qualified
+S0101,C0004,20-Feb-19,Attended,92,Qualified
+S0102,C0005,21-Feb-19,Absent,0,Not Qualified
+S0103,C0006,22-Feb-19,Absent,0,Not Qualified
+S0104,C0007,23-Feb-19,Absent,0,Not Qualified
+S0105,C0008,24-Feb-19,Attended,70,Qualified
+S0106,C0009,25-Feb-19,Attended,91,Qualified
+S0107,C0010,26-Feb-19,Absent,0,Not Qualified
+S0108,C0011,27-Feb-19,Absent,0,Not Qualified
+S0109,C0012,28-Feb-19,Attended,70,Qualified
+S0110,C0013,01-Mar-19,Attended,85,Qualified
+S0111,C0014,02-Mar-19,Absent,0,Not Qualified
+S0112,C0015,03-Mar-19,Absent,0,Not Qualified
+S0113,C0016,04-Mar-19,Absent,0,Not Qualified
+S0114,C0017,05-Mar-19,Absent,0,Not Qualified
+S0115,C0016,04-Mar-19,Absent,0,Not Qualified
+S0116,C0017,05-Mar-19,Absent,0,Not Qualified
+S0117,C0018,23-Feb-19,Attended,70,Qualified
+S0118,C0019,18-Feb-19,Attended,75,Qualified
+S0119,C0020,19-Feb-19,Attended,90,Qualified
+S0120,C0001,17-Feb-19,Attended,70,Qualified
+S0121,C0002,18-Feb-19,Absent,0,Not Qualified
+S0122,C0003,19-Feb-19,Attended,70,Qualified
+S0123,C0004,20-Feb-19,Attended,92,Qualified
+S0124,C0005,21-Feb-19,Absent,0,Not Qualified
+S0125,C0006,22-Feb-19,Absent,0,Not Qualified
+S0126,C0007,23-Feb-19,Absent,0,Not Qualified
+S0127,C0008,24-Feb-19,Attended,70,Qualified
+S0128,C0009,25-Feb-19,Attended,91,Qualified
+S0129,C0010,26-Feb-19,Absent,0,Not Qualified
+S0130,C0011,27-Feb-19,Absent,0,Not Qualified
+S0131,C0012,28-Feb-19,Attended,70,Qualified
+S0132,C0013,01-Mar-19,Attended,85,Qualified
+S0133,C0014,02-Mar-19,Absent,0,Not Qualified
+S0134,C0015,03-Mar-19,Absent,0,Not Qualified
+S0135,C0016,04-Mar-19,Absent,0,Not Qualified
+S0136,C0017,05-Mar-19,Absent,0,Not Qualified
+S0137,C0013,01-Mar-19,Attended,85,Qualified
+S0138,C0014,02-Mar-19,Absent,0,Not Qualified
+S0139,C0015,03-Mar-19,Absent,0,Not Qualified
+S0140,C0016,04-Mar-19,Absent,0,Not Qualified
+S0141,C0017,05-Mar-19,Absent,0,Not Qualified
+S0142,C0001,17-Feb-19,Attended,70,Qualified
+S0143,C0002,18-Feb-19,Absent,0,Not Qualified
+S0144,C0003,19-Feb-19,Attended,70,Qualified
+S0145,C0004,20-Feb-19,Attended,92,Qualified
+S0146,C0005,21-Feb-19,Absent,0,Not Qualified
+S0147,C0006,22-Feb-19,Absent,0,Not Qualified
+S0148,C0007,23-Feb-19,Absent,0,Not Qualified
+S0149,C0008,24-Feb-19,Attended,70,Qualified
+S0150,C0009,25-Feb-19,Attended,91,Qualified
+S0151,C0010,26-Feb-19,Absent,0,Not Qualified
+S0152,C0011,27-Feb-19,Absent,0,Not Qualified
+S0153,C0012,28-Feb-19,Attended,70,Qualified
+S0154,C0013,01-Mar-19,Attended,85,Qualified
+S0155,C0014,02-Mar-19,Absent,0,Not Qualified
+S0156,C0015,03-Mar-19,Absent,0,Not Qualified
+S0157,C0016,04-Mar-19,Absent,0,Not Qualified
+S0158,C0017,05-Mar-19,Absent,0,Not Qualified
+S0159,C0016,04-Mar-19,Absent,0,Not Qualified
+S0160,C0017,05-Mar-19,Absent,0,Not Qualified
+S0161,C0018,23-Feb-19,Attended,70,Qualified
+S0162,C0026,14-Mar-19,Attended,86,Qualified
+S0163,C0027,15-Mar-19,Attended,77,Qualified
+S0164,C0028,18-Feb-19,Attended,88,Qualified
+S0165,C0029,19-Feb-19,Attended,87,Qualified
+S0166,C0030,20-Feb-19,Attended,70,Qualified
+S0167,C0007,23-Feb-19,Absent,0,Not Qualified
+S0168,C0008,24-Feb-19,Attended,70,Qualified
+S0169,C0009,25-Feb-19,Attended,91,Qualified
+S0170,C0010,26-Feb-19,Absent,0,Not Qualified
+S0171,C0010,26-Feb-19,Absent,0,Not Qualified
+S0172,C0001,17-Feb-19,Attended,70,Qualified
+S0173,C0002,18-Feb-19,Absent,0,Not Qualified
+S0174,C0003,19-Feb-19,Attended,70,Qualified
+S0175,C0004,20-Feb-19,Attended,92,Qualified
+S0176,C0005,21-Feb-19,Absent,0,Not Qualified
+S0177,C0006,22-Feb-19,Absent,0,Not Qualified
+S0178,C0007,23-Feb-19,Absent,0,Not Qualified
+S0179,C0008,24-Feb-19,Attended,70,Qualified
+S0180,C0009,25-Feb-19,Attended,91,Qualified
+S0181,C0010,26-Feb-19,Absent,0,Not Qualified
+S0182,C0011,27-Feb-19,Absent,0,Not Qualified
+S0183,C0012,28-Feb-19,Attended,70,Qualified
+S0184,C0013,01-Mar-19,Attended,85,Qualified
+S0185,C0014,02-Mar-19,Absent,0,Not Qualified
+S0186,C0015,03-Mar-19,Absent,0,Not Qualified
+S0187,C0016,04-Mar-19,Absent,0,Not Qualified
+S0188,C0017,05-Mar-19,Absent,0,Not Qualified
+S0189,C0026,14-Mar-19,Attended,86,Qualified
+S0190,C0027,15-Mar-19,Attended,77,Qualified
+S0191,C0028,18-Feb-19,Attended,88,Qualified
+S0192,C0001,17-Feb-19,Attended,70,Qualified
+S0193,C0002,18-Feb-19,Absent,0,Not Qualified
+S0194,C0003,19-Feb-19,Attended,70,Qualified
+S0195,C0004,20-Feb-19,Attended,92,Qualified
+S0196,C0005,21-Feb-19,Absent,0,Not Qualified
+S0197,C0006,22-Feb-19,Absent,0,Not Qualified
+S0198,C0007,23-Feb-19,Absent,0,Not Qualified
+S0199,C0008,24-Feb-19,Attended,70,Qualified
+S0200,C0009,25-Feb-19,Attended,91,Qualified
+S0201,C0010,26-Feb-19,Absent,0,Not Qualified
+S0202,C0011,27-Feb-19,Absent,0,Not Qualified
+S0203,C0012,28-Feb-19,Attended,70,Qualified
+S0204,C0013,01-Mar-19,Attended,85,Qualified
+S0205,C0014,02-Mar-19,Absent,0,Not Qualified
+S0206,C0015,03-Mar-19,Absent,0,Not Qualified
+S0207,C0016,04-Mar-19,Absent,0,Not Qualified
+S0208,C0001,17-Feb-19,Attended,70,Qualified
+S0209,C0002,18-Feb-19,Absent,0,Not Qualified
+S0210,C0003,19-Feb-19,Attended,70,Qualified
+S0211,C0004,20-Feb-19,Attended,92,Qualified
+S0212,C0005,21-Feb-19,Absent,0,Not Qualified
+S0213,C0006,22-Feb-19,Absent,0,Not Qualified
+S0214,C0007,23-Feb-19,Absent,0,Not Qualified
+S0215,C0008,24-Feb-19,Attended,70,Qualified
+S0216,C0009,25-Feb-19,Attended,91,Qualified
+S0217,C0010,26-Feb-19,Absent,0,Not Qualified
+S0218,C0011,27-Feb-19,Absent,0,Not Qualified
+S0219,C0012,28-Feb-19,Attended,70,Qualified
+S0220,C0013,01-Mar-19,Attended,85,Qualified
+S0221,C0014,02-Mar-19,Absent,0,Not Qualified
+S0222,C0015,03-Mar-19,Absent,0,Not Qualified
+S0223,C0016,04-Mar-19,Absent,0,Not Qualified
+S0224,C0017,05-Mar-19,Absent,0,Not Qualified
+S0225,C0030,20-Feb-19,Attended,70,Qualified
+S0226,C0007,23-Feb-19,Absent,0,Not Qualified
+S0227,C0008,24-Feb-19,Attended,70,Qualified
+S0228,C0001,17-Feb-19,Attended,70,Qualified
+S0229,C0002,18-Feb-19,Absent,0,Not Qualified
+S0230,C0003,19-Feb-19,Attended,70,Qualified
+S0231,C0004,20-Feb-19,Attended,92,Qualified
+S0232,C0005,21-Feb-19,Absent,0,Not Qualified
+S0233,C0006,22-Feb-19,Absent,0,Not Qualified
+S0234,C0007,23-Feb-19,Absent,0,Not Qualified
+S0235,C0008,24-Feb-19,Attended,70,Qualified
+S0236,C0009,25-Feb-19,Attended,91,Qualified
+S0237,C0010,26-Feb-19,Absent,0,Not Qualified
+S0238,C0011,27-Feb-19,Absent,0,Not Qualified
+S0239,C0012,28-Feb-19,Attended,70,Qualified
+S0240,C0013,01-Mar-19,Attended,85,Qualified
+S0241,C0014,02-Mar-19,Absent,0,Not Qualified
+S0242,C0015,03-Mar-19,Absent,0,Not Qualified
+S0243,C0001,17-Feb-19,Attended,70,Qualified
+S0244,C0002,18-Feb-19,Absent,0,Not Qualified
+S0245,C0003,19-Feb-19,Attended,70,Qualified
+S0246,C0004,20-Feb-19,Attended,92,Qualified
+S0247,C0005,21-Feb-19,Absent,0,Not Qualified
+S0248,C0006,22-Feb-19,Absent,0,Not Qualified
+S0249,C0007,23-Feb-19,Absent,0,Not Qualified
+S0250,C0008,24-Feb-19,Attended,70,Qualified
+S0251,C0009,25-Feb-19,Attended,91,Qualified
+S0252,C0010,26-Feb-19,Absent,0,Not Qualified
+S0253,C0011,27-Feb-19,Absent,0,Not Qualified
+S0254,C0012,28-Feb-19,Attended,70,Qualified
+S0255,C0013,01-Mar-19,Attended,85,Qualified
+S0256,C0014,02-Mar-19,Absent,0,Not Qualified
+S0257,C0015,03-Mar-19,Absent,0,Not Qualified
+S0258,C0016,04-Mar-19,Absent,0,Not Qualified
+S0259,C0001,17-Feb-19,Attended,70,Qualified
+S0260,C0002,18-Feb-19,Absent,0,Not Qualified
+S0261,C0003,19-Feb-19,Attended,70,Qualified
+S0262,C0004,20-Feb-19,Attended,92,Qualified
+S0263,C0005,21-Feb-19,Absent,0,Not Qualified
+S0264,C0006,22-Feb-19,Absent,0,Not Qualified
+S0265,C0007,23-Feb-19,Absent,0,Not Qualified
+S0266,C0008,24-Feb-19,Attended,70,Qualified
+S0267,C0009,25-Feb-19,Attended,91,Qualified
+S0268,C0010,26-Feb-19,Absent,0,Not Qualified
+S0269,C0011,27-Feb-19,Absent,0,Not Qualified
+S0270,C0012,28-Feb-19,Attended,70,Qualified
+S0271,C0013,01-Mar-19,Attended,85,Qualified
+S0272,C0014,02-Mar-19,Absent,0,Not Qualified
+S0273,C0015,03-Mar-19,Absent,0,Not Qualified
+S0274,C0016,04-Mar-19,Absent,0,Not Qualified
+S0275,C0017,05-Mar-19,Absent,0,Not Qualified
+S0276,C0003,19-Feb-19,Attended,70,Qualified
+S0277,C0004,20-Feb-19,Attended,92,Qualified
+S0278,C0005,21-Feb-19,Absent,0,Not Qualified
+S0279,C0006,22-Feb-19,Absent,0,Not Qualified
+S0280,C0007,23-Feb-19,Absent,0,Not Qualified
+S0281,C0008,24-Feb-19,Attended,70,Qualified
+S0282,C0009,25-Feb-19,Attended,91,Qualified
+S0283,C0010,26-Feb-19,Absent,0,Not Qualified
+S0284,C0011,27-Feb-19,Absent,0,Not Qualified
+S0285,C0012,28-Feb-19,Attended,70,Qualified
+S0286,C0013,01-Mar-19,Attended,85,Qualified
+S0287,C0014,02-Mar-19,Absent,0,Not Qualified
+S0288,C0015,03-Mar-19,Absent,0,Not Qualified
+S0289,C0016,04-Mar-19,Absent,0,Not Qualified
+S0290,C0017,05-Mar-19,Absent,0,Not Qualified
+S0291,C0013,01-Mar-19,Attended,85,Qualified
+S0292,C0026,14-Mar-19,Attended,86,Qualified
+S0293,C0027,15-Mar-19,Attended,77,Qualified
+S0294,C0028,18-Feb-19,Attended,88,Qualified
+S0295,C0029,19-Feb-19,Attended,87,Qualified
+S0296,C0030,20-Feb-19,Attended,70,Qualified
+S0297,C0007,23-Feb-19,Absent,0,Not Qualified
+S0298,C0008,24-Feb-19,Attended,70,Qualified
+S0299,C0009,25-Feb-19,Attended,91,Qualified
+S0300,C0010,26-Feb-19,Absent,0,Not Qualified
